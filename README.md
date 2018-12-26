@@ -44,3 +44,6 @@ Coisas a se pensar:
 Você pode escrever sua aplicação em .NET Core, Angular, Node.Js, Vue.Js, WebApi, NancyFX ou o que achar melhor - dentro do mundo de um desenvolvedor web .NET (C#).
 
 Avaliaremos TODOS os PR's com todo carinho e cuidado ;)
+
+
+Desafio livremente inspirado em: https://sites.google.com/site/tddproblems/all-problems-1/finding-duplicate-files
