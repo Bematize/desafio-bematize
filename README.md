@@ -46,4 +46,6 @@ Você pode escrever sua aplicação em .NET Core, Angular, Node.Js, Vue.Js, WebA
 Avaliaremos TODOS os PR's com todo carinho e cuidado ;)
 
 
+Ps: aqui usamos *TFS* e não *Github*, mas não temos preconceitos tecnológicos!
+
 Desafio livremente inspirado em: https://sites.google.com/site/tddproblems/all-problems-1/finding-duplicate-files
