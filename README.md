@@ -8,7 +8,7 @@ Nosso escritório ocupa o 5ºandar de um prédio novíssimo, temos um ótimo har
 Nosso trabalho é atender com excelência. Todo desenvolvedor é convidado a incorporar o espírito Bematize: ser reconhecido por atender com qualidade máxima.
 Estamos de olho no que há de melhor no futuro da tecnologia. Nosso DNA hojé é escrito em C# e SQL e nossos servidores rodam Windows - mas o que nos importa é sempre a melhor e mais inteligente solução.
 
-Temos desafios em codar o novo e manter o legado. Nada em sistema é arbitrário, todo mundo participa!
+Temos desafios em codar o novo e manter o legado. Nada em sistemas é arbitrário, todo mundo participa!
 
 
 # Nosso desafio
