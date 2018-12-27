@@ -29,6 +29,11 @@ O aplicativo deve:
 2.	Aceitar inputs de novos arquivos, validando duplicação
 3.	Fornecer opção de limpeza - “deletar” automaticamente os arquivos duplicados
 
+Você deve:
+1.  Fornecer um guia básico de uso do aplicativo (só pra gente não se perder na hora de validar)
+2.  Nos contar o tempo que levou para fazer o desafio (ex: escrever no último  commit que levou um total de  3 horas e 30 minutos)
+
+
 Coisas a se pensar:
 
 - O que significa ter um arquivo idêntico ao outro? (Nome, tamanho, conteúdo, data de criação, hash?)
